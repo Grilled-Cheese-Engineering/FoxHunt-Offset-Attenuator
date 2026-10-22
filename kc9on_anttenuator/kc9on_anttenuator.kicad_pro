@@ -698,8 +698,13 @@
         "uuid": "723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
       }
     ],
-    "used_designators": "SW1,R2,D1",
-    "variants": []
+    "used_designators": "SW1,R2,R6,D1",
+    "variants": [
+      {
+        "description": "The normal layout and schematic for the attenuator",
+        "name": "V2 Normal"
+      }
+    ]
   },
   "sheets": [
     [
