@@ -540,6 +540,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -700,6 +701,10 @@
     ],
     "used_designators": "SW1,R2,R6,D1",
     "variants": [
+      {
+        "description": "For the Yagi Conduit Case. Has slightly different parts.",
+        "name": "V2 ConduitCase"
+      },
       {
         "description": "The normal layout and schematic for the attenuator",
         "name": "V2 Normal"

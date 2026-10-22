@@ -2765,9 +2765,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "JP1")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -2859,9 +2856,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "C3")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -3031,9 +3025,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R4")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -3203,9 +3194,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "C4")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -3413,9 +3401,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "RV1")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -3507,9 +3492,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "J1")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -3681,9 +3663,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "C1")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -3985,9 +3964,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R3")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -4081,9 +4057,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "J2")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -4177,9 +4150,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "J3")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -4466,9 +4436,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R2")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -4560,9 +4527,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "Y1")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -4813,9 +4777,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R1")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -4931,9 +4892,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "D2")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -4970,7 +4928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BNC:SWITCH_11MA1QS1"
+		(property "Footprint" "Atten:SWITCH_11MA1QS1"
 			(at 58.42 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -5017,9 +4975,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "SW1")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -5111,9 +5066,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R5")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
@@ -5207,9 +5159,6 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "C5")
 					(unit 1)
-					(variant
-						(name "V2 Normal")
-					)
 				)
 			)
 		)
