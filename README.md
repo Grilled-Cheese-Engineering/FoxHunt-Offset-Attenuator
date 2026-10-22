@@ -3,7 +3,7 @@ A simple foxhunt offset attenuator! Original circuit design by John KC9ON. More 
 
 ## Credit
 
-This attenuator was adapted from John KC9ON's Offset Fox hunt attenuator. Check out his website here [KC9ON.com](kc9on.com). 
+This attenuator was adapted from John KC9ON's Offset Fox hunt attenuator. Check out his website here [KC9ON.com](https://kc9on.com). 
 
 ## Commercial Use
 
