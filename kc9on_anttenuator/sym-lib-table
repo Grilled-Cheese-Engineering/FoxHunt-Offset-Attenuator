@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "BNC") (type "KiCad") (uri "F:/KiCadLibraries/random") (options "") (descr ""))
+)
