@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "Atten") (type "KiCad") (uri "C:/Users/thisi/OneDrive/Documents/FoxHunt-Offset-Attenuator/project_parts_library/2026-10-22_19-59-16.kicad_sym") (options "") (descr ""))
+	(lib (name "Atten") (type "KiCad") (uri "/home/josh/Documents/FoxHunt-Offset-Attenuator/project_parts_library/2026-10-22_19-59-16.kicad_sym") (options "") (descr ""))
 )
