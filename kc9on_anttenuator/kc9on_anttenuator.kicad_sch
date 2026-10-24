@@ -3827,7 +3827,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4728bfda-2118-4876-8029-d68aa673c85c")
 		(property "Reference" "J1"
@@ -3907,6 +3907,7 @@
 					(unit 1)
 					(variant
 						(name "V2 Normal")
+						(dnp no)
 						(field
 							(name "ID")
 							(value "36-232-ND")
