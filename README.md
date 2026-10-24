@@ -23,7 +23,7 @@ This render of the PCB is not final and is a WIP. It should be done very soon so
 
 ![A picture showing a 3D render of the V2 Attenuator](./imgs/AttenuatorV2Kicad3D.png "3D Render of the WIP V2 Attenuator")
 
-I will be also making an alternate layout of this PCB to fit in a Home Depot Conduit so it can be integrated directly into a yagi antenna.
+I will be also making an alternate layout of this PCB to fit in a Lowes PVC Conduit so it can be integrated directly into a yagi antenna. More info on that soon
 
 ---
 
