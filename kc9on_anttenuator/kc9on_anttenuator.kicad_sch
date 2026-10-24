@@ -2931,6 +2931,17 @@
 				)
 			)
 		)
+		(property "ID" ""
+			(at 213.36 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "627d2b7c-cda9-47e2-9d32-711d6c966cb8")
 		)
@@ -2946,6 +2957,10 @@
 						(name "V2 Normal")
 						(dnp yes)
 						(on_board no)
+						(field
+							(name "ID")
+							(value "None")
+						)
 						(field
 							(name "Value")
 							(value "AntennaRAW")
@@ -3040,7 +3055,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -3120,6 +3135,10 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "JP1")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(on_board yes)
+					)
 				)
 			)
 		)
@@ -3211,6 +3230,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "C3")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
+						)
+						(field
+							(name "ID")
+							(value "K221J15C0GF5UH5")
+						)
+					)
 				)
 			)
 		)
@@ -3380,6 +3410,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R4")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+						)
+						(field
+							(name "ID")
+							(value "CF14JT4K70")
+						)
+					)
 				)
 			)
 		)
@@ -3549,6 +3590,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "C4")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
+						)
+						(field
+							(name "ID")
+							(value "K221J15C0GF5UH5")
+						)
+					)
 				)
 			)
 		)
@@ -3759,6 +3811,9 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "RV1")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+					)
 				)
 			)
 		)
@@ -3850,6 +3905,13 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "J1")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "ID")
+							(value "36-232-ND")
+						)
+					)
 				)
 			)
 		)
@@ -4021,6 +4083,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "C1")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
+						)
+						(field
+							(name "ID")
+							(value "K104K10X7RF5UH5")
+						)
+					)
 				)
 			)
 		)
@@ -4117,12 +4190,16 @@
 					(variant
 						(name "V2 Normal")
 						(field
+							(name "Footprint")
+							(value "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
+						)
+						(field
 							(name "ID")
-							(value "CC1206JRNPO9BN150")
+							(value "K150J15C0GF5TH5")
 						)
 						(field
 							(name "Value")
-							(value "15pf")
+							(value "15pF")
 						)
 					)
 				)
@@ -4221,8 +4298,12 @@
 					(variant
 						(name "V2 Normal")
 						(field
+							(name "Footprint")
+							(value "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+						)
+						(field
 							(name "ID")
-							(value "RMCF1206FT2K20")
+							(value "CF14JT2K20")
 						)
 						(field
 							(name "Value")
@@ -4322,6 +4403,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R3")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+						)
+						(field
+							(name "ID")
+							(value "CF14JT1M00")
+						)
+					)
 				)
 			)
 		)
@@ -4420,6 +4512,9 @@
 						(dnp yes)
 						(on_board no)
 					)
+					(variant
+						(name "V2 Normal")
+					)
 				)
 			)
 		)
@@ -4517,6 +4612,9 @@
 						(name "V2 ConduitCase")
 						(dnp yes)
 						(on_board no)
+					)
+					(variant
+						(name "V2 Normal")
 					)
 				)
 			)
@@ -4804,6 +4902,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R2")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+						)
+						(field
+							(name "ID")
+							(value "CF14JT2K20")
+						)
+					)
 				)
 			)
 		)
@@ -4895,6 +5004,9 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "Y1")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+					)
 				)
 			)
 		)
@@ -5145,6 +5257,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R1")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+						)
+						(field
+							(name "ID")
+							(value "CF14JT1K00")
+						)
+					)
 				)
 			)
 		)
@@ -5260,6 +5383,9 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "D2")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+					)
 				)
 			)
 		)
@@ -5351,6 +5477,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "R5")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+						)
+						(field
+							(name "ID")
+							(value "CF14JT2K20")
+						)
+					)
 				)
 			)
 		)
@@ -5444,6 +5581,17 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "C5")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+						(field
+							(name "Footprint")
+							(value "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
+						)
+						(field
+							(name "ID")
+							(value "K150J15C0GF5TH5")
+						)
+					)
 				)
 			)
 		)
@@ -5605,6 +5753,9 @@
 				(path "/723aa161-dc41-4b0d-9ad5-799bbfe29ff7"
 					(reference "SW1")
 					(unit 1)
+					(variant
+						(name "V2 Normal")
+					)
 				)
 			)
 		)
@@ -5707,12 +5858,16 @@
 					(variant
 						(name "V2 Normal")
 						(field
+							(name "Footprint")
+							(value "Package_TO_SOT_THT:TO-92L_Inline")
+						)
+						(field
 							(name "ID")
 							(value "MMBF5457")
 						)
 						(field
 							(name "Value")
-							(value "MMBF5457")
+							(value "J113")
 						)
 					)
 				)
@@ -5786,6 +5941,17 @@
 				)
 			)
 		)
+		(property "ID" ""
+			(at 213.36 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3c580f44-4c9a-4666-9c82-023aa598bb2b")
 		)
@@ -5801,6 +5967,10 @@
 						(name "V2 Normal")
 						(dnp yes)
 						(on_board no)
+						(field
+							(name "ID")
+							(value "None")
+						)
 						(field
 							(name "Value")
 							(value "RadioRAW")
