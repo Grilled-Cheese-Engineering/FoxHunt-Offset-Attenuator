@@ -19,11 +19,11 @@ While fox hunting, tune either 4.00MHz up or down to listen to the attenuated si
 
 This is the V2 attenuator. This revised and updated version of the attenuator incorporates a few key improvement and modifications. It is a cross between the V7 and V5 attenuator by John KC9ON. One of the biggest changes is a shift from SMD to Through Hole parts so it can be easily assembled and sold as a kit. It also only has a single potentiometer which makes the attenuator easier to operate.
 
-This render of the PCB is not final and is a WIP. It should be done very soon so check back in a couple days.
+The V2 is also a tad cheaper than the V1 and the board is larger in size so a 9v battery fits behind it perfectly.
 
-![A picture showing a 3D render of the V2 Attenuator](./imgs/AttenuatorV2Kicad3D.png "3D Render of the WIP V2 Attenuator")
+![A picture showing the assembled V2 Attenuator](./imgs/AttenuatorV2Assembled.jpeg "The V2 Attenuator")
 
-I will be also making an alternate layout of this PCB to fit in a Lowes PVC Conduit so it can be integrated directly into a yagi antenna. More info on that soon
+I will be also making an alternate layout of this PCB to fit in a Lowes PVC Conduit so it can be integrated directly into a yagi antenna. More info on that soon...
 
 ---
 
