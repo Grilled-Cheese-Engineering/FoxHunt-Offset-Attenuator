@@ -56,9 +56,9 @@
 <h1 style="text-align:center; font-size:45px"><b>FoxHunt Offset Attenuator</b></h1>
 
 <div style="display:flex; justify-content:space-between; gap:5px;">
-    <img src="./imgs/AttenuatorV2Assembled.jpeg" height="200px">
-    <img src="./imgs/AttenuatorV2BKicad3D.png" height="200px">
-    <img src="./imgs/AttenuatorV1IntermodTest.jpg" height="200px">
+    <img src="./imgs/AttenuatorV2Assembled.jpeg" width="33%" height="220px">
+    <img src="./imgs/AttenuatorV2BKicad3D.png" width="33%" height="220px">
+    <img src="./imgs/AttenuatorV1IntermodTest.jpg" width="33%" height="220px">
 </div>
 
 <br>
