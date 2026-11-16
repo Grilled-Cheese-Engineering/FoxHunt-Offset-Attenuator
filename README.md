@@ -1,5 +1,3 @@
-<!--<link rel="stylesheet" href="https://grilled-cheese-engineering.github.io/GCE-Universal-CSS-Styles/gce.css">-->
-
 <style>
     img {
         border-radius:10px
