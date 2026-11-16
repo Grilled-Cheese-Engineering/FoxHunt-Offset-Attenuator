@@ -1,4 +1,4 @@
-<style>
+<!--<style>
     img {
         border-radius:10px
     }
@@ -48,12 +48,20 @@
     footer::after {
         content: "Grilled Cheese Engineering 2026";
     }
+</style>-->
+
+<style>
+img {
+    border-radius:10px;
+}
 </style>
 
-<div class='section'>
-<h1 class='big-title noline'><b>FoxHunt Offset Attenuator</b></h1>
+<br>
 
-<div class='img-gallery'>
+<div class='section'>
+<h1 style="text-align:center; font-size:45px"><b>FoxHunt Offset Attenuator</b></h1>
+
+<div style="display:flex; justify-content:center; gap:10px;">
     <img src="./imgs/AttenuatorV2Assembled.jpeg" height="200px">
     <img src="./imgs/AttenuatorV2BKicad3D.png" height="200px">
     <img src="./imgs/AttenuatorV1IntermodTest.jpg" height="200px">
@@ -86,8 +94,6 @@ While fox hunting, tune either 4.00MHz up or down to listen to the attenuated si
 
 <h1 class="noline">Attenuator Versions</h1>
 
----
-
 <h2  class='noline'>V2 Attenuator</h2>
 
 <div class="box">
@@ -110,8 +116,6 @@ This is the B version of the V2 Attenuator. This has all of the same functonalit
 ![A picture showing a 3D rendering of the B layout of the V2 Attenuator](./imgs/AttenuatorV2BKicad3D.png "The V2 Attenuator B Layout")
 
 </div>
-
----
 
 <h2 class='noline'>V1 Attenuator</h2>
 
@@ -144,4 +148,4 @@ If you try pulling this project yourself, some component symbols might be missin
 
 </div>
 
-<footer></footer>
+<footer style="text-align:right">Grilled Cheese Engineering 2026</footer>
