@@ -1,11 +1,29 @@
-# FoxHunt Offset Attenuator
-A simple foxhunt offset attenuator! Original circuit design by John KC9ON. More information coming soon!
+<link rel="stylesheet" href="https://grilled-cheese-engineering.github.io/GCE-Universal-CSS-Styles/gce.css">
 
-This project was made 100% WITHOUT AI. We do not use AI for Grilled Cheese Engineering Projects.
+<div class='section'>
+<h1 class='big-title noline'><b>FoxHunt Offset Attenuator</b></h1>
 
-## How it Works
+<div class='img-gallery'>
+    <img src="./imgs/AttenuatorV2Assembled.jpeg" height="200px">
+    <img src="./imgs/AttenuatorV2BKicad3D.png" height="200px">
+    <img src="./imgs/AttenuatorV1IntermodTest.jpg" height="200px">
+</div>
 
-This style of attenuator is very simple to operate but very powerful. It is operated with just a single potentiometer to adjust the attenuation power. A 4.00MHz clock is "injected" into the RF signal which creates an effect called intermodulation which creates attenuated versions of the frequency 4.00MHz up and down. Below is a picture from a test using the V1 Attenuator. 
+<br>
+A simple foxhunt offset attenuator for radio direction finding! Original circuit design by John KC9ON. More information coming soon!
+
+This project was made **100% WITHOUT AI**. We do not use AI for Grilled Cheese Engineering Projects.
+
+This will be coming to our website for purchase very soon once I finish some stuff so keep your eyes out :)
+
+</div>
+<div class="section">
+
+# How it Works
+
+The concept behind this attenuator is very simple but powerful. The attenuator can be operated with a single potentiometer. When the device is powered on, a 4.00MHz clock is generated and "injected" into the RF signal that is being received. That creates an effect called intermodulation where the primary frequency is "duplicated" 4.00MHz up and down from the primary frequency. While using the attenuator, tune your radio to those offset frequencies.
+
+The additional peaks that result from this effect are significantly weaker than the primary frequency. This is useful as you get closer to the location of the transmitter as the signal will sound strong from all directions while you sweep. As the sensitivity is decreased, only the strongest signals reach your radio.
 
 ![A picture showing a test of the V1 attenuator with multiple peaks with the largest in the center](./imgs/AttenuatorV1IntermodTest.jpg "Intermod at work!")
 
@@ -13,34 +31,67 @@ The large peak is the frequency that something is transmitting and peak to the l
 
 While fox hunting, tune either 4.00MHz up or down to listen to the attenuated signal.
 
-## Attenuator Versions
+</div>
+<div class="section">
 
-### V2 Attenuator
-
-This is the V2 attenuator. This revised and updated version of the attenuator incorporates a few key improvement and modifications. It is a cross between the V7 and V5 attenuator by John KC9ON. One of the biggest changes is a shift from SMD to Through Hole parts so it can be easily assembled and sold as a kit. It also only has a single potentiometer which makes the attenuator easier to operate.
-
-The V2 is also a tad cheaper than the V1 and the board is larger in size so a 9v battery fits behind it perfectly.
-
-![A picture showing the assembled V2 Attenuator](./imgs/AttenuatorV2Assembled.jpeg "The V2 Attenuator")
-
-I will be also making an alternate layout of this PCB to fit in a Lowes PVC Conduit so it can be integrated directly into a yagi antenna. More info on that soon...
+<h1 class="noline">Attenuator Versions</h1>
 
 ---
 
-### V1 Attenuator
+<h2  class='noline'>V2 Attenuator</h2>
+
+<div class="box">
+
+<h3> Layout Version A </h3>
+
+<p>This is the A version of the V2 attenuator. This revised and updated version of the attenuator incorporates a few key improvement and modifications. It is a cross between the V7 and V5 attenuator by John KC9ON. One of the biggest changes is a shift from SMD to Through Hole parts so it can be easily assembled and sold as a kit. It also only has a single potentiometer which makes the attenuator easier to operate.</p>
+
+The V2 is also a tad cheaper than the V1 and the board is larger in size so a 9v battery fits behind it perfectly.
+
+![A picture showing the assembled A Layout V2 Attenuator](./imgs/AttenuatorV2Assembled.jpeg "The A Layout V2 Attenuator")
+
+</div>
+<div class="box">
+
+### Layout Version B
+
+This is the B version of the V2 Attenuator. This has all of the same functonality and (almost) all the same parts as layout A. This layout of the board is designed specifically to fit in a Lowes/Home Depot PVC conduit. This means the attenuator can be built directly into your Yagi antennas boom. It also lacks BNC connectors and has a larger power switch. This PCB is not ready yet and before it can be brought to market I will be making a custom 3d printed faceplate for the anttenuator. Check back for updates soon!
+
+![A picture showing a 3D rendering of the B layout of the V2 Attenuator](./imgs/AttenuatorV2BKicad3D.png "The V2 Attenuator B Layout")
+
+</div>
+
+---
+
+<h2 class='noline'>V1 Attenuator</h2>
 
 This is the V1 attenuator. This version was made with primarly SMD parts and based on John KC9ON's V5 Offset Attenuator. This version is not available any more because I made a better version and there is no reason to use this one anymore.
 
 ![A picture showing the V1 Attenuator](./imgs/AttenuatorV1Assembled.jpg "V1 Attenuator")
 
-## Credit
+</div>
+
+
+<div class="section">
+
+# Credit
 
 This attenuator was adapted from John KC9ON's Offset Fox hunt attenuator. Check out his website here [KC9ON.com](https://kc9on.com). 
 
-## Commercial Use
+</div>
+<div class="section">
+
+# Commercial Use
 
 Grilled Cheese Engineering plans to sell this attenuator design online soon and has acquired permission from the original designer of the circuit (John KC9ON) to sell this attenuator online.
 
-## Notes
+</div>
+<div class="section">
+
+# Notes
 
 If you try pulling this project yourself, some component symbols might be missing and you will have to download and install them yourself. This is because I was silly and didn't put all of the part libraries in this project.
+
+</div>
+
+<footer></footer>
