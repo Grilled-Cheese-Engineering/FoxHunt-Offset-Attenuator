@@ -50,12 +50,6 @@
     }
 </style>-->
 
-<style>
-img {
-    border-radius:10px;
-}
-</style>
-
 <br>
 
 <div class='section'>
