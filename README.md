@@ -1,4 +1,56 @@
-<link rel="stylesheet" href="https://grilled-cheese-engineering.github.io/GCE-Universal-CSS-Styles/gce.css">
+<!--<link rel="stylesheet" href="https://grilled-cheese-engineering.github.io/GCE-Universal-CSS-Styles/gce.css">-->
+
+<style>
+    img {
+        border-radius:10px
+    }
+    .big-title {
+        font-size: 40px;
+        text-align: center;
+    }
+    .noline {
+        border-bottom: none;
+    }
+    .section {
+        border: 1px solid #292929;
+        background-color: #131313;
+        border-radius:20px;
+        padding-top: 18px;
+        padding-left:30px;
+        padding-right: 30px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    .box {
+        border: 1px solid #152555f5;
+        border-radius: 14px;
+        background-color: #0E121C;
+
+        padding-left:30px;
+        padding-right:30px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+
+        margin-bottom: 16px;
+        margin-left: 10px;
+        margin-right: 10px;
+
+        width:auto;
+        height:auto;
+    }
+    .img-gallery {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    footer {
+        text-align: right;
+    }
+    footer::after {
+        content: "Grilled Cheese Engineering 2026";
+    }
+</style>
 
 <div class='section'>
 <h1 class='big-title noline'><b>FoxHunt Offset Attenuator</b></h1>
