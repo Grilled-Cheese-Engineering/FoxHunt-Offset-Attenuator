@@ -131,7 +131,7 @@ This attenuator was adapted from John KC9ON's Offset Fox hunt attenuator. Check 
 
 # Commercial Use
 
-Grilled Cheese Engineering plans to sell this attenuator design online soon and has acquired permission from the original designer of the circuit (John KC9ON) to sell this attenuator online.
+Grilled Cheese Engineering plans to sell this attenuator design online soon and has acquired permission from the original designer of the circuit (John KC9ON) to sell this attenuator online. At this time I am using a CC-BY-SA-NC license on the project so please do not sell my design on other websites but I may drop the Non-Commercial part of the license at some point.
 
 </div>
 <div class="section">
@@ -139,6 +139,16 @@ Grilled Cheese Engineering plans to sell this attenuator design online soon and 
 # Notes
 
 If you try pulling this project yourself, some component symbols might be missing and you will have to download and install them yourself. This is because I was silly and didn't put all of the part libraries in this project.
+
+</div>
+
+<div class="section">
+
+# License
+
+This repository is under a CC-BY-SA-NC license which means that you can copy and modify this project however you like but you cannot commercialize the project and you must attribute credit to the original project and use the same or a compatible license.
+
+More info at this link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 </div>
 
